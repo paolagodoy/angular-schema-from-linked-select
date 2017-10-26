@@ -6,7 +6,7 @@ A simple way to do linked selects.
 
 ### Requirements
 
-1. NodeJS installed (I use v7.10 version, but you only need a version compatible with [AngularJS Schema-form](http://schemaform.io/)
+1. NodeJS installed (I use v7.10 version, but you only need a version compatible with [AngularJS Schema-form](http://schemaform.io/))
 2. Git installed
 3. Bower and Gulp installed in global mode, lastest version
 
