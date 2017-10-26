@@ -1,0 +1,17 @@
+[
+  { "id": 1, "glosa": "I - Región de Tarapacá", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 2, "glosa": "II- Región de Antofagasta", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 3, "glosa": "III - Región de Atacama", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 4, "glosa": "IV - Región de Coquimbo", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 5, "glosa": "V - Región de Valparaíso", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 6, "glosa": "VI - Región del Libertador Gral.Bdo.O’Higgins", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 7, "glosa": "VII - Región del Maule", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 8, "glosa": "VIII - Región del Bío-Bío", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 9, "glosa": "IX - Región de La Araucanía", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 10, "glosa": "X - Región de Los Lagos", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 11, "glosa": "XI - Región de Aisén del General C. Ibañez", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 12, "glosa": "XII -Región de Magallanes y Antártica Chilena", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 13, "glosa": "Región Metropolitana", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 14, "glosa": "XIV - Región de los Rios", "paiseId": "CL", "estatus": "ACTIVO" },
+  { "id": 15, "glosa": "XV - Región de Arica y Parinacota", "paiseId": "CL", "estatus": "ACTIVO" }
+]

@@ -1,0 +1,77 @@
+{
+  "schema": {
+    "type": "object",
+    "properties": {
+      "nombre": {
+        "type": "string",
+        "minLength": 6,
+        "title": "Nombre",
+        "description": "Nombre Completo del estudiante."
+      },
+      "pais": {
+        "title": "Pais",
+        "type": "string"
+      },
+      "region": {
+        "title": "Region",
+        "type": "number"
+      },
+      "comuna": {
+        "title": "Comuna",
+        "type": "number"
+      },
+      "calle": {
+        "type": "string",
+        "title": "Calle"
+      }
+    }
+  },
+  "form": [
+    "nombre",
+    {
+      "key": "pais",
+      "type": "select",
+      "selectLinked": true,
+      "option": {
+        "uri": "data/regiones.json",
+        "params": "compare",
+        "map": {
+          "valueField": "id",
+          "nameField": "glosa",
+          "compareField": "paiseId"
+        }
+      },
+      "childItem": "region",
+      "titleMap": [
+        { "value": "CL", "name": "Chile" }
+      ]
+    },
+    {
+      "key": "region",
+      "type": "select",
+      "selectLinked": true,
+      "option": {
+        "uri": "data/comunas.json",
+        "params": "compare",
+        "map": {
+          "valueField": "id",
+          "nameField": "glosa",
+          "compareField": "comunaId"
+        }
+      },
+      "childItem": "comuna",
+      "createTitleMap": true,
+      "titleMap": []
+    },
+    {
+      "key": "comuna",
+      "type": "select",
+      "createTitleMap": true,
+      "titleMap": []
+    },
+    {
+      "type": "submit",
+      "title": "Enviar"
+    }
+  ]
+}

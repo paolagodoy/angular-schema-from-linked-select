@@ -1,0 +1,21 @@
+{
+  "name": "test-linked-list",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Caio Medeiros Pinto <camedeir@redhat.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-schema-form": "^0.8.13",
+    "bootstrap": "^3.3.7"
+  }
+}
