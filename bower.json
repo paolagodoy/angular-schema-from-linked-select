@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "angular-schema-form": "^0.8.13",
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "angular-schema-form-dynamic-select": "develop"
   }
 }

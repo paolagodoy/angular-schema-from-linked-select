@@ -1,4 +1,4 @@
-angular.module('selectExample', ['schemaForm'])
+angular.module('selectExample', ['schemaForm', 'mgcrea.ngStrap'])
        .controller('FormController', function($scope, $http, $q) {
   var selectLinkedChange = function(key, model) {
     $scope[model.childItem].splice(0);
@@ -40,7 +40,13 @@ angular.module('selectExample', ['schemaForm'])
     }
 
     formObject.forEach(function(item, index) {
-      if (item.type == "select") {
+      if (item.items) {
+        $scope.addLogic(item.items);
+      }
+      if (item.tabs) {
+        $scope.addLogic(item.tabs);
+      }
+      if (item.type == "select" || item.type == "strapselect") {
         if (item.selectLinked) {
           item.onChange = selectLinkedChange;
         }
@@ -54,7 +60,7 @@ angular.module('selectExample', ['schemaForm'])
     return formObject;
   }
 
-  $http.get('data/form.json').then(function(response) {
+  $http.get('data/form-2.json').then(function(response) {
     $scope.schema = response.data.schema;
     $scope.form = $scope.addLogic(response.data.form);
   });
