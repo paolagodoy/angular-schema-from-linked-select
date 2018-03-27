@@ -12,11 +12,11 @@
      "properties":{
         "nombre":{
            "title":"Nombre",
-           "description":"Ingrese Nombre Completo....",
+           "description":"Ingrese Nombre Completo",
            "type":"string",
            "pattern":"^[^/]*$",
            "minLength":4,
-        "fieldHtmlClass": "myclass"
+            "fieldHtmlClass": "myclass"
         },
         "run":{
            "title":"RUN",
@@ -587,7 +587,8 @@
                                    {
                                       "key":"nombre",
                                       "placeholder":"Nombre",
-                                      "readonly":"true"
+                                      "readonly":"true",
+                                        "fieldHtmlClass": "myclass"
                                    }
                                 ]
                              },
