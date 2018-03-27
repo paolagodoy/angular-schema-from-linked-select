@@ -12,10 +12,11 @@
      "properties":{
         "nombre":{
            "title":"Nombre",
-           "description":"Ingrese Nombre Completo",
+           "description":"Ingrese Nombre Completo....",
            "type":"string",
            "pattern":"^[^/]*$",
-           "minLength":4
+           "minLength":4,
+        "fieldHtmlClass": "myclass"
         },
         "run":{
            "title":"RUN",
