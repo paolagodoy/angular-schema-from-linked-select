@@ -63,6 +63,9 @@ angular.module('selectExample', ['schemaForm', 'mgcrea.ngStrap'])
   $http.get('data/form-2.json').then(function(response) {
     $scope.schema = response.data.schema;
     $scope.form = $scope.addLogic(response.data.form);
+      console.log("$scope.schema", $scope.schema);
+      console.log("$scope.form", $scope.form);
+      
   });
 
   $scope.model = {};
