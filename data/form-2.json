@@ -559,22 +559,22 @@
 
 
             "documento1": {
-                "title": "1 Concentración de notas del último año académico cursado",
+                "title": "1- BPR -SUP - RENO: Concentración de notas del último año académico cursado",
                 "type": "boolean",
                 "default": false
             },
             "documento2": {
-                "title": "2 Certificado de alumno regular año 2017",
+                "title": "2- BPR -SUP- RENO: Certificado de alumno regular año 2017",
                 "type": "boolean",
                 "default": false
             },
             "documento3": {
-                "title": "3 Certificado acreditación de domicilio donde se indique claramente la comuna y localidad de residencia familiar mediante alguno de los siguientes documentos: declaración jurada otorgada ante notario; o certificado otorgado por Junta de Vecinos; o mediante otro certificado con el mérito suficiente para acreditar la residencia emitido por la autoridad correspondiente.",
+                "title": "3: Certificado acreditación de domicilio donde se indique claramente la comuna y localidad de residencia familiar mediante alguno de los siguientes documentos: declaración jurada otorgada ante notario; o certificado otorgado por Junta de Vecinos; o mediante otro certificado con el mérito suficiente para acreditar la residencia emitido por la autoridad correspondiente.",
                 "type": "boolean",
                 "default": false
             },
             "documento4": {
-                "title": "4 Certificado emitido por profesional médico que avale embarazo  con timbre y firma del facultativo o; carnet de control prenatal.",
+                "title": "4 - BPR -MED- POST  /  BI - BAS - POST / BI - MED - POST: Certificado emitido por profesional médico que avale embarazo  con timbre y firma del facultativo o; carnet de control prenatal.",
                 "type": "boolean",
                 "default": false
             },
@@ -584,74 +584,171 @@
                 "default": false
             },
             "documento6": {
-                "title": "Documento que acredite la participación del padre, madre o representante legal en la organización",
+                "title": "6 BI - BAS - POST / BI - MED - POST: Documento que acredite la participación del padre, madre o representante legal en la organización",
                 "type": "boolean",
                 "default": false
             },
             "documento7": {
-                "title": "Documento emitido por dirigente de la comunidad que acredite que el estudiante y/o su grupo familiar reside en la Comunidad Indígena, consignando nombre de la comunidad",
+                "title": "7 BI - BAS - POST / BI - MED - POST: Documento emitido por dirigente de la comunidad que acredite que el estudiante y/o su grupo familiar reside en la Comunidad Indígena, consignando nombre de la comunidad",
                 "type": "boolean",
                 "default": false
             },
             "documento8": {
-                "title": "Documento emitido por autoridad tradicional, comunidad indígena, unidad de educación y cultura de Conadi, consejero de Conadi, establecimiento educacional que sea parte del programa intercultural bilingüe de Mineduc, asociación indígena registrada en Conadi y se encuentre activa al momento de la postulación y/u otras organizaciones comunitarias o funcionales cuyos objetivos sean la promoción y difusión de prácticas y derechos de pueblos originarios",
+                "title": "8 BI - BAS - POST / BI - MED - POST: Documento emitido por autoridad tradicional, comunidad indígena, unidad de educación y cultura de Conadi, consejero de Conadi, establecimiento educacional que sea parte del programa intercultural bilingüe de Mineduc, asociación indígena registrada en Conadi y se encuentre activa al momento de la postulación y/u otras organizaciones comunitarias o funcionales cuyos objetivos sean la promoción y difusión de prácticas y derechos de pueblos originarios",
                 "type": "boolean",
                 "default": false
             },
             "documento9": {
-                "title": "Certificado que acredite promedio notas enseñanza media NEM.",
+                "title": "9 Certificado que acredite promedio notas enseñanza media NEM.",
                 "type": "boolean",
                 "default": false
             },
             "documento10": {
-                "title": "Certificado con el porcentaje de aprobación curricular.",
+                "title": "10 Certificado con el porcentaje de aprobación curricular.",
                 "type": "boolean",
                 "default": false
             },
             "documento11": {
-                "title": "Certificado de egreso o concentración de notas de enseñanza media de un establecimiento educacional de la Región de Aysén.",
+                "title": "11 Certificado de egreso o concentración de notas de enseñanza media de un establecimiento educacional de la Región de Aysén.",
                 "type": "boolean",
                 "default": false
             },
             "documento12": {
-                "title": "Anexo solicitud de estado de excepción y documentación que acredita la causal esgrimida.",
+                "title": "12  BPR - MED -REN / BPR -SUP -REN / BI (TODAS): Anexo solicitud de estado de excepción y documentación que acredita la causal esgrimida.",
                 "type": "boolean",
                 "default": false
             },
             "documento13": {
-                "title": "Certificado extendido por Conadi que acredite calidad indígena, sólo para aquellos estudiantes que no posean apellido directo evidentemente indígena, según las nóminas oficiales de apellidos de los pueblos indígenas del país entregadas por Conadi.",
+                "title": "13 BI (TODAS): Certificado extendido por Conadi que acredite calidad indígena, sólo para aquellos estudiantes que no posean apellido directo evidentemente indígena, según las nóminas oficiales de apellidos de los pueblos indígenas del país entregadas por Conadi.",
                 "type": "boolean",
                 "default": false
             },
             "documento14": {
-                "title": "Certificado emitido por la Compin o Credencial de Discapacidad emitida por Senadis o Colilla de pago Pensión de Invalidez (Pensión básica Solidaria, Aporte Previsional Solidario de Invalidez; pensiones de invalidez para afiliados a AFP) o Certificado de Discapacidad emitido por Registro Civil",
+                "title": "14 BPR - MED - POST / BI - BAS -POST / BI - MED - POST: Certificado emitido por la Compin o Credencial de Discapacidad emitida por Senadis o Colilla de pago Pensión de Invalidez (Pensión básica Solidaria, Aporte Previsional Solidario de Invalidez; pensiones de invalidez para afiliados a AFP) o Certificado de Discapacidad emitido por Registro Civil",
                 "type": "boolean",
                 "default": false
             },
             "documento15": {
-                "title": "Certificado de práctica cuando corresponda que señale duración y mes de inicio de la misma",
+                "title": "15 BPR - MED - POST Y REN: Certificado de práctica cuando corresponda que señale duración y mes de inicio de la misma",
                 "type": "boolean",
                 "default": false
             },
             "documento16": {
-                "title": "Documentación que acredite puntaje de PSU o impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al renovante y los puntajes obtenidos en la PSU, para el caso de estudiantes que no hayan sido beneficiarios de la Beca PSU para el caso de los nuevos becados del año 2011 en adelante que no se matriculen en institutos profesionales y centros de formación técnica reconocidos por el Estado.",
+                "title": "16 BPR - SUP - REN: Documentación que acredite puntaje de PSU o impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al renovante y los puntajes obtenidos en la PSU, para el caso de estudiantes que no hayan sido beneficiarios de la Beca PSU para el caso de los nuevos becados del año 2011 en adelante que no se matriculen en institutos profesionales y centros de formación técnica reconocidos por el Estado.",
                 "type": "boolean",
                 "default": false
             },
             "documento17": {
-                "title": "Certificado que acredite ponderación en PSU o PSU rendida según sea el caso o impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al postulante y los puntajes obtenidos en la PSU, para el caso de estudiantes que no hayan sido beneficiarios de la Beca PSU. Impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al postulante y los puntajes obtenidos en la PSU. Cuando este requisito no logre ser acreditado por fuentes de información externa.  Esto sólo aplica a carreras cuyas IES solicitan la PSU como requisito de acceso",
+                "title": "17 Certificado que acredite ponderación en PSU o PSU rendida según sea el caso o impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al postulante y los puntajes obtenidos en la PSU, para el caso de estudiantes que no hayan sido beneficiarios de la Beca PSU. Impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al postulante y los puntajes obtenidos en la PSU. Cuando este requisito no logre ser acreditado por fuentes de información externa.  Esto sólo aplica a carreras cuyas IES solicitan la PSU como requisito de acceso",
                 "type": "boolean",
                 "default": false
             },
             "documento18": {
-                "title": "Documentación de arriendo de inmueble: contrato de arriendo de vivienda, pieza o pensión; o comprobante de arriendo. ",
+                "title": "18 Documentación de arriendo de inmueble: contrato de arriendo de vivienda, pieza o pensión; o comprobante de arriendo. ",
                 "type": "boolean",
                 "default": false
             },
             "documento19": {
-                "title": "Certificado que acredite residencia por 4 años continuos y previos a la postulación en la región de Aysén cuando corresponda. ",
+                "title": "19 Certificado que acredite residencia por 4 años continuos y previos a la postulación en la región de Aysén cuando corresponda. ",
                 "type": "boolean",
                 "default": false
+            },
+
+            "subirDoc1": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc2": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc3": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc4": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc5": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc6": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc7": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+
+            "subirDoc8": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc9": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc10": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc11": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc12": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc13": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc14": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc15": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc16": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc17": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc18": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
+            },
+            "subirDoc19": {
+                "type": "string",
+                "format": "base64",
+                "maxSize": "5242880"
             }
         }
     },
@@ -1677,67 +1774,540 @@
                             "title": "Prueba",
                             "items": [
                                 {
-                                    "key": "documento1"
-                       },
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento1"
+										}
+									]
+								},
                                 {
-                                    "key": "documento2"
-                       },
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento2"
+										}
+									]
+								},
                                 {
-                                    "key": "documento3"
-                       },
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento3"
+										}
+									]
+								},
                                 {
-                                    "key": "documento4",
-                                    "condition": "model.embarazo==1"
-                       },
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento4",
+                                            "condition": "model.embarazo==1"
+										}
+									]
+								},
                                 {
-                                    "key": "documento5"
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento5"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento6"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento7"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento8"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento9"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento10"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento11"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento12"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento13"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento14"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento15"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento16"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento17"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento18"
+										}
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+                                        {
+                                            "key": "documento19"
+										}
+									]
+								}
 
-                       },
-                                {
-                                    "key": "documento6"
-                       },
-                                {
-                                    "key": "documento7"
-                       },
-                                {
-                                    "key": "documento8"
-                       },
-                                {
-                                    "key": "documento9"
-                       },
-                                {
-                                    "key": "documento10"
-                                },
-                                {
-                                    "key": "documento11"
-                       },
-                                {
-                                    "key": "documento12"
-                       },
-                                {
-                                    "key": "documento13"
-                       },
-                                {
-                                    "key": "documento14"
-                       },
-                                {
-                                    "key": "documento15"
-                       },
-                                {
-                                    "key": "documento16"
-                       },
-                                {
-                                    "key": "documento17"
-                       },
-                                {
-                                    "key": "documento18"
-                       },
-                                {
-                                    "key": "documento19"
-                       }
 
-                    ]
-                 }
+
+                            ]
+                 },
+                        {
+                            "title": "Adjuntar Documentos",
+                            "items": [
+
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc1",
+                                            "condition": "model.documento1",
+                                            "title": "1 Subir Archivo: 1 Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc2",
+                                            "condition": "model.documento2",
+                                            "title": "2 Subir Archivo: Certificado de alumno regular año 2017",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc3",
+                                            "condition": "model.documento3",
+                                            "title": "3 Subir Archivo: Certificado emitido por profesional médico que avale embarazo  con timbre y firma del facultativo o; carnet de control prenata",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc4",
+                                            "condition": "model.documento4",
+                                            "title": "4 Subir Archivo: 3 Certificado acreditación de domicilio donde se indique claramente la comuna y localidad de residencia familiar mediante alguno de los siguientes documentos: declaración jurada otorgada ante notario; o certificado otorgado por Junta de Vecinos; o mediante otro certificado con el mérito suficiente para acreditar la residencia emitido por la autoridad correspondiente",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc5",
+                                            "condition": "model.documento5",
+                                            "title": "5 Subir Archivo: 5 Documento que acredite la participación del estudiante en la organización",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc6",
+                                            "condition": "model.documento6",
+                                            "title": "6 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc7",
+                                            "condition": "model.documento7",
+                                            "title": "7 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc8",
+                                            "condition": "model.documento8",
+                                            "title": "8 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc9",
+                                            "condition": "model.documento9",
+                                            "title": "9 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc10",
+                                            "condition": "model.documento10",
+                                            "title": "10 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc11",
+                                            "condition": "model.documento11",
+                                            "title": "11 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc12",
+                                            "condition": "model.documento12",
+                                            "title": "12 Subir Archivo: Anexo solicitud de estado de excepción y documentación que acredita la causal esgrimida",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc13",
+                                            "condition": "model.documento13",
+                                            "title": "13 Subir Archivo: Certificado extendido por Conadi que acredite calidad indígena, sólo para aquellos estudiantes que no posean apellido directo evidentemente indígena, según las nóminas oficiales de apellidos de los pueblos indígenas del país entregadas por Conadi ",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc14",
+                                            "condition": "model.documento14",
+                                            "title": "14 Subir Archivo: Certificado emitido por la Compin o Credencial de Discapacidad emitida por Senadis o Colilla de pago Pensión de Invalidez (Pensión básica Solidaria, Aporte Previsional Solidario de Invalidez; pensiones de invalidez para afiliados a AFP) o Certificado de Discapacidad emitido por Registro Civil",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc15",
+                                            "condition": "model.documento15",
+                                            "title": "15 Subir Archivo: Certificado de práctica cuando corresponda que señale duración y mes de inicio de la misma",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc16",
+                                            "condition": "model.documento16",
+                                            "title": "16 Subir Archivo: Documentación que acredite puntaje de PSU o impresión de pantalla de la página oficial de DEMRE donde se individualice claramente al renovante y los puntajes obtenidos en la PSU, para el caso de estudiantes que no hayan sido beneficiarios de la Beca PSU para el caso de los nuevos becados del año 2011 en adelante que no se matriculen en institutos profesionales y centros de formación técnica reconocidos por el Estado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc17",
+                                            "condition": "model.documento17",
+                                            "title": "17 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc18",
+                                            "condition": "model.documento18",
+                                            "title": "18 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								},
+                                 {
+                                    "type": "section",
+                                    "htmlClass": "row",
+                                    "items": [
+
+                                        {
+                                            "key": "subirDoc19",
+                                            "condition": "model.documento19",
+                                            "title": "19 Subir Archivo: Concentración de notas del último año académico cursado",
+                                            "description": "",
+                                            "placeholder": "Arrastra el archivo o has clic aca para adjuntar",
+                                            "validationMessage": {
+                                                "base64FileUploadSize": "Tamaño maximo de archivo permitido es {{(schema.maxSize / 1024) / 1024}} MB."
+                                            }
+								        }
+
+									]
+								}
+
+
+
+
+
+
+
+
+
+                            ]
+						}
               ]
            },
                 {
